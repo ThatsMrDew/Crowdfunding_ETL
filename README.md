@@ -19,7 +19,7 @@ A "category" column that contains only the category titles
 
 The following image shows this category DataFrame:
 
-![alt text](category_df.PNG)
+![alt text](https://github.com/ThatsMrDew/Crowdfunding_ETL/blob/main/Images/category_df.PNG)
 
 Exported the category DataFrame as category.csv and saved it to our GitHub repository.
 
@@ -31,7 +31,7 @@ A "subcategory" column that contains only the subcategory titles
 
 The following image shows this subcategory DataFrame:
 
-![alt text](subcategory_df.PNG)
+![alt text](https://github.com/ThatsMrDew/Crowdfunding_ETL/blob/main/Images/subcategory_df.PNG)
 
 Exported the subcategory DataFrame as subcategory.csv and saved it to our GitHub repository.
 
@@ -110,7 +110,7 @@ Cleaned and then exported the DataFrame as contacts.csv and saved it to our GitH
 
 # Create the Crowdfunding Database
 Inspected the four CSV files, and then sketched an ERD of the tables by using QuickDBDLinks to an external site..
-![alt text](Crowdfunding_DB_Model.png)
+![alt text](https://github.com/ThatsMrDew/Crowdfunding_ETL/blob/main/Images/Crowdfunding_DB_Model.png)
 
 Used the information from the ERD to create a table schema for each CSV file.
 
